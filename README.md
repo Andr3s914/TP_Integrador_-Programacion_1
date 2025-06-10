@@ -4,4 +4,5 @@ Integrantes del grupo: Manuel Andres Vizone; Keyla Valdes.
 Comision: 9.
 Tema elegido: Algoritmos de busqueda y ordenamiento.
 Objetivos del proyecto: Probar la eficiencia en los diferentes tipos de algoritmos de busqueda y ordenamiento.
+Enlace al video: https://youtu.be/gEXvBJ4uvp4?si=uoOXaXEH_WtQwBS6
 
